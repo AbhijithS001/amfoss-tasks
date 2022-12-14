@@ -11,6 +11,6 @@ b. What is your plan for the next 6 months?
  I like to participate in various contest contested by AmFOSS and also other contests and try my maximum to win it for the club. I am also ready to help others in learning coding.
  
  d. Do you have any feedback on the selection process?
- Yes, I have a feedback on the selection process
+ Yes, I have a feedback on the selection process. I am a student with bio background and I could only solve 2 tasks from my knowledge. I tried to solve other tasks but I couldn't. At the same time, I am learning new things in coding. So please take this into consideration for the selection process. Thank you.
  
  
